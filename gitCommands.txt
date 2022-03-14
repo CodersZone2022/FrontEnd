@@ -9,3 +9,8 @@ git log
 git show <commit id>
 git diff <file path>
 
+
+git merge --abort
+git reset HEAD~1
+git checkout -- <file path>
+

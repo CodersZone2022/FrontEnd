@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\777b18878720eb031faadcb200652191\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\96e8cbe298222658c99ea86c018f008e\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\907457660117534d0d4488a40c48cea0\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{28B73958-E6CD-3467-AAF5-DB203D406DAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

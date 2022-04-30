@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_windows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\include\geolocator_windows\geolocator_windows.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_enums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{741725AF-3612-3BEB-A845-73FBD2FA5EC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7783A12F-DFEC-3B47-BD3C-11FA7BED39DB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\CMakeFiles\6ff438b6a97b9bc465ed17fdd2babfda\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\CMakeFiles\201a05ce212cad6a86525770daaee0b9\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Aarunya\Desktop\PROECTS\FrontEnd\ecatalogue\ecatalogue_priyo\ecatalogue_aarunya\flutter_aarnyacatalog_project\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{230836C6-053F-37C5-B0C0-264CE23169A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

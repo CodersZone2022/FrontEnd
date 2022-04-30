@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/907457660117534d0d4488a40c48cea0/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/96e8cbe298222658c99ea86c018f008e/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Aarunya/Desktop/PROECTS/FrontEnd/ecatalogue/ecatalogue_priyo/ecatalogue_aarunya/flutter_aarnyacatalog_project/build/windows/_deps/nuget-subbuild/CMakeFiles/777b18878720eb031faadcb200652191/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

@@ -5,6 +5,8 @@ import 'package:flutter_aarnyacatalog_project/pages/auth/sign_in_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/auth/sign_up_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/cart/cart_history.dart';
 import 'package:flutter_aarnyacatalog_project/pages/home/main_food_page.dart';
+import 'package:flutter_aarnyacatalog_project/pages/product_list/product_list.dart';
+import 'package:flutter_aarnyacatalog_project/pages/wishlist/wishlist_history.dart';
 import 'package:flutter_aarnyacatalog_project/utils/colors.dart';
 import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 
@@ -47,12 +49,8 @@ class _HomePageState extends State<HomePage> {
     return [
       MainFoodPage(),
       CartHistory(),
-      Container(
-        child: Text("History page"),
-      ),
-      Container(
-        child: Text("History page"),
-      ),
+      ProductList(),
+      WishlistHistory(),
       AccountPage(),
     ];
   }

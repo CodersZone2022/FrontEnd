@@ -22,20 +22,33 @@ class CartPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        backgroundColor: AppColors.mainColor,
+        title: BigText(
+          text: "Your Cart",
+          size: Dimensions.font26,
+          color: Colors.white,
+        ),
+      ),
       body: Stack(
         children: [
           Positioned(
-              top: Dimensions.height20 * 3,
+              top: Dimensions.height20,
               left: Dimensions.widht20,
               right: Dimensions.widht20,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  AppIcon(
-                    icon: Icons.arrow_back_ios,
-                    iconColor: Colors.white,
-                    backgroundColor: AppColors.mainColor,
-                    iconSize: Dimensions.iconSize24,
+                  GestureDetector(
+                    onTap: () {
+                      Get.toNamed(RouteHelper.getInitial());
+                    },
+                    child: AppIcon(
+                      icon: Icons.arrow_back_ios,
+                      iconColor: Colors.white,
+                      backgroundColor: AppColors.mainColor,
+                      iconSize: Dimensions.iconSize24,
+                    ),
                   ),
                   SizedBox(
                     width: Dimensions.widht20 * 5,

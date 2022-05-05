@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 Pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://images.unsplash.com/photo-1620555576588-a7dd6c04c55d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwMTIlMjBwcm98ZW58MHx8MHx8&w=1000&q=80"
+        },
+        {
+            "id": 2,
+            "name": "pixel 6",
+            "desc": "Google Pixel phone 6th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://m.media-amazon.com/images/I/71ee+5V4ZRL._SL1500_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://i.pcmag.com/imagery/reviews/02pPlSC851BxRP4BFdufSBJ-1.fit_lim.size_1200x630.v1605566017.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://cdn.shopify.com/s/files/1/0301/2263/9499/products/2_cb18e24f-5214-4f3f-ad60-24f61f65340b.jpg?v=1610098314"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://5.imimg.com/data5/GLADMIN/Default/2021/1/PA/QN/NZ/48255109/airpods-pro-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://www.techinn.com/f/13748/137480451/apple-ipad-pro-32gb-12.9-tablet.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://media.wired.com/photos/6008b7cd103a85a519187c3e/master/pass/Gear-galaxys21_plus_phantom_silver_front.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21 ",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/africa_en/sm-g991bzadxfe/gallery/africa-en-galaxy-s21-5g-g991-371039-sm-g991bzadxfe-414587261?$720_576_JPG$"
+        },
+        {
+            "id": 9,
+            "name": "Redmi note 11 pro max ",
+            "desc": "Redmi note 11 pro 2022 edition",
+            "price": 266,
+            "color": "#7c95eb",
+            "image": "https://mymobilesnews.com/wp-content/uploads/2022/01/Redmi-Note-11-Pro-Max.jpg"
+        },
+        {
+            "id": 10,
+            "name": "OnePlus 9RT ",
+            "desc": "OnePlus Ultra edition",
+            "price": 2566,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/61KnXoTQQ4L._SL1500_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "POCO F3 GT ",
+            "desc": "POCO F3 GT edition",
+            "price": 355,
+            "color": "#ff8000",
+            "image": "https://static.toiimg.com/photo/87161569.cms"
+        }
+    ]
+}

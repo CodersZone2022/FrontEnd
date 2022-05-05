@@ -69,10 +69,16 @@ class CartHistory extends StatelessWidget {
                   text: "Cart History",
                   color: Colors.white,
                 ),
-                AppIcon(
-                  icon: Icons.shopping_cart_outlined,
-                  iconColor: AppColors.mainColor,
-                  backgroundColor: AppColors.yellowColor,
+                GestureDetector(
+                  onTap: () {
+                    Get.toNamed(RouteHelper.getDashboardPage());
+                  },
+                  child: AppIcon(
+                    icon: Icons.payment_sharp,
+                    iconColor: Colors.white,
+                    iconSize: Dimensions.iconSize24,
+                    backgroundColor: AppColors.yellowColor,
+                  ),
                 )
               ],
             ),
@@ -242,7 +248,7 @@ class CartHistory extends StatelessWidget {
                       ),
                     ),
                   );
-          })
+          }),
         ],
       ),
     );

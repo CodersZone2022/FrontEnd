@@ -2,11 +2,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_aarnyacatalog_project/pages/address/add_address_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/auth/sign_in_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/cart/cart_page.dart';
+import 'package:flutter_aarnyacatalog_project/pages/discount/discount_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/food/popular_food_detail.dart';
 import 'package:flutter_aarnyacatalog_project/pages/food/recommended_food_detail.dart';
 import 'package:flutter_aarnyacatalog_project/pages/home/home_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/home/main_food_page.dart';
+import 'package:flutter_aarnyacatalog_project/pages/product_list/product_list.dart';
+import 'package:flutter_aarnyacatalog_project/pages/pyment/dashboard_page.dart';
 import 'package:flutter_aarnyacatalog_project/pages/splash/splash_page.dart';
+import 'package:flutter_aarnyacatalog_project/pages/wishlist/wishlist_history.dart';
 import 'package:get/get.dart';
 
 class RouteHelper {
@@ -16,6 +20,10 @@ class RouteHelper {
   static const String recommendedFood = "/recommended-food";
   static const String cartPage = "/cart-page";
   static const String signIn = "/sign-in";
+  static const String productList = "/product-list";
+  static const String dashboard = "/dashboard";
+  static const String wishlist = "/wishlist";
+  static const String discountPage = "/discount-Page";
 
   static const String addAddress = "/add-address";
 
@@ -28,6 +36,10 @@ class RouteHelper {
   static String getCartPage() => '$cartPage';
   static String getSignInPage() => '$signIn';
   static String getAddressPage() => '$addAddress';
+  static String getProductList() => '$productList';
+  static String getDashboardPage() => '$dashboard';
+  static String getWishlistHistoryPage() => '$wishlist';
+  static String getDiscountPage() => '$discountPage';
 
   static List<GetPage> routes = [
     GetPage(name: splashPage, page: () => SplashScreen()),
@@ -61,5 +73,14 @@ class RouteHelper {
         page: () {
           return AddAddressPage();
         }),
+    GetPage(name: productList, page: () => ProductList()),
+    GetPage(name: dashboard, page: () => DashboardPage()),
+    GetPage(
+        name: wishlist,
+        page: () {
+          return WishlistHistory();
+        },
+        transition: Transition.fadeIn),
+    GetPage(name: discountPage, page: () => DiscountPage()),
   ];
 }

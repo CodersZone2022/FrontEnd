@@ -50,9 +50,7 @@ class RecommendedFoodDetail extends StatelessWidget {
                   SizedBox(
                     width: Dimensions.widht20 * 8,
                   ),
-                  AppIcon(
-                    icon: Icons.discount_outlined,
-                  ),
+                  AppIcon(icon: Icons.share),
                   GetBuilder<PopularProductController>(builder: (controller) {
                     return GestureDetector(
                       onTap: () {

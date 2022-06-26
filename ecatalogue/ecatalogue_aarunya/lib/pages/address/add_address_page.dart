@@ -53,7 +53,7 @@ class _AddAddressPageState extends State<AddAddressPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Address page"),
+        title: const Text("Address page"),
         backgroundColor: AppColors.mainColor,
       ),
       body: GetBuilder<UserController>(builder: (userController) {

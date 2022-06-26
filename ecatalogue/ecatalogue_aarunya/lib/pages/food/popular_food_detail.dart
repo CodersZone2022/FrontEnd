@@ -135,6 +135,20 @@ class PopularFoodDetail extends StatelessWidget {
                     SizedBox(height: Dimensions.height20),
                     BigText(text: "Introduce"),
                     SizedBox(height: Dimensions.height20),
+                    TextButton.icon(
+                        onPressed: () {},
+                        icon: Text(
+                          "Share",
+                          style: TextStyle(
+                              color: AppColors.mainBlackColor,
+                              fontSize: Dimensions.font16),
+                        ),
+                        label: Icon(
+                          Icons.share,
+                          color: AppColors.mainBlackColor,
+                          size: Dimensions.iconSize24,
+                        )),
+                    SizedBox(height: Dimensions.height20),
                     Expanded(
                       child: SingleChildScrollView(
                         child: ExpandableTextWidget(text: product.description!),
